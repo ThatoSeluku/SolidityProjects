@@ -1,0 +1,1 @@
+First solidity project that'll run on ethereum blockchain
