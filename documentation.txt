@@ -1,0 +1,3 @@
+Whenever you deploy a smart contract to the blockchain, you're actually changing the
+blockchain state.
+Migrations are used to change the state of the blockchain
