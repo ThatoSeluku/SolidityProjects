@@ -1,3 +1,5 @@
 Whenever you deploy a smart contract to the blockchain, you're actually changing the
 blockchain state.
-Migrations are used to change the state of the blockchain
+Migrations are used to change the state of the blockchain. Think of a database as the blockchain, 
+everything is stored on the blockchain it is then state-updated using migrations when contracts are deployed 
+to the Ethereum network. 
